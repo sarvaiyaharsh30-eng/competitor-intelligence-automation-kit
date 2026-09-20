@@ -1,12 +1,41 @@
 # Competitor Intelligence Automation Kit
 
-Public landing page for the Competitor Intelligence Automation Kit.
+Evidence-first competitor research automation using Python.
 
-Buy the product here:
+## Free resources
+
+- [Free competitor research CSV template](https://sarvaiyaharsh30-eng.github.io/competitor-intelligence-automation-kit/free-template.html)
+- [Synthetic example output](https://sarvaiyaharsh30-eng.github.io/competitor-intelligence-automation-kit/example-output.html)
+- [FAQ](https://sarvaiyaharsh30-eng.github.io/competitor-intelligence-automation-kit/faq.html)
+
+## Full product
+
+The complete kit generates:
+
+- normalized competitor datasets
+- comparison matrices
+- pricing observations
+- source/provenance ledgers
+- executive Markdown briefs
+- machine-readable summaries
+
+Purchase the full product:
 
 https://harshroyale.gumroad.com/l/competitor-intelligence-kit
 
-The paid customer ZIP is not stored in this public repository.
+Launch price: $19
 
-The examples displayed on the landing page are synthetic and are
-not real market intelligence.
+## Requirements
+
+Python 3.
+
+The core product uses only the Python standard library.
+
+## Evidence policy
+
+Missing information is not converted into invented facts.
+
+Public example data in this repository is synthetic and exists only to demonstrate
+the workflow.
+
+The paid customer ZIP is not stored in this public repository.

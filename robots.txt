@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sarvaiyaharsh30-eng.github.io/competitor-intelligence-automation-kit/sitemap.xml

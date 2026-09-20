@@ -1,0 +1,29 @@
+# Competitor Intelligence Automation Kit
+
+> Evidence-first Python software for structuring competitor and pricing research.
+
+Public product page:
+https://sarvaiyaharsh30-eng.github.io/competitor-intelligence-automation-kit/
+
+Purchase:
+https://harshroyale.gumroad.com/l/competitor-intelligence-kit
+
+Free template:
+https://sarvaiyaharsh30-eng.github.io/competitor-intelligence-automation-kit/free-template.html
+
+Example output:
+https://sarvaiyaharsh30-eng.github.io/competitor-intelligence-automation-kit/example-output.html
+
+FAQ:
+https://sarvaiyaharsh30-eng.github.io/competitor-intelligence-automation-kit/faq.html
+
+Core capabilities:
+- normalize structured competitor research
+- generate competitor comparison matrices
+- preserve source provenance
+- organize observed pricing information
+- generate executive Markdown briefs
+
+Important:
+Public examples are synthetic.
+Missing facts are not fabricated.

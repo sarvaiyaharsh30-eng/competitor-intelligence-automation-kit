@@ -1,0 +1,4 @@
+competitor,category,product,price,currency,pricing_model,feature,target_customer,source_url,source_date,evidence,notes
+Example Alpha,Analytics Software,Alpha Starter,49,USD,Monthly subscription,Automated reporting,Small businesses,https://example.com/alpha/pricing,2026-09-20,Fictional demonstration pricing observation,Synthetic example only
+Example Beta,Analytics Software,Beta Business,79,USD,Monthly subscription,Team dashboards,SMBs,https://example.com/beta/plans,2026-09-20,Fictional demonstration pricing observation,Synthetic example only
+Example Gamma,Analytics Software,Gamma Enterprise,,,Contact sales,Custom reporting,Enterprise,https://example.com/gamma/pricing,2026-09-20,Fictional demonstration contact-sales observation,Synthetic example only
