@@ -1,0 +1,5 @@
+competitor,product,price,currency,pricing_model,feature,target_customer,source_url,source_date,notes
+Example Alpha,Starter Plan,49,USD,Monthly subscription,Automated reporting,Small business,https://example.com/alpha/pricing,2026-09-20,Synthetic demonstration only
+Example Beta,Business Plan,79,USD,Monthly subscription,Team dashboards,SMB,https://example.com/beta/pricing,2026-09-20,Synthetic demonstration only
+Example Gamma,Pro Plan,99,USD,Monthly subscription,Advanced exports,Growing business,https://example.com/gamma/pricing,2026-09-20,Synthetic demonstration only
+Example Delta,Enterprise,,,Contact sales,Custom workflows,Enterprise,https://example.com/delta/pricing,2026-09-20,Synthetic demonstration only
