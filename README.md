@@ -4,6 +4,8 @@ Evidence-first competitor research automation using Python.
 
 ## Free resources
 
+- [Free browser competitor comparison tool](https://sarvaiyaharsh30-eng.github.io/competitor-intelligence-automation-kit/free-competitor-comparison-tool.html)
+
 - [Free competitor research CSV template](https://sarvaiyaharsh30-eng.github.io/competitor-intelligence-automation-kit/free-template.html)
 - [Synthetic example output](https://sarvaiyaharsh30-eng.github.io/competitor-intelligence-automation-kit/example-output.html)
 - [FAQ](https://sarvaiyaharsh30-eng.github.io/competitor-intelligence-automation-kit/faq.html)
